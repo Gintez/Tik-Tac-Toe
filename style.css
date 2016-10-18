@@ -1,0 +1,54 @@
+body {
+  font-family: Courier;
+}
+.container {
+  margin-top: 6%;
+	text-align: center; 
+	max-width: 300px;
+}
+#selectX {
+	background-color: #9B957F;
+	padding: 15px 20px 15px 20px;
+  color: white;
+  font-weight: bold;
+}
+#selectO {
+  background-color: #9B957F;
+  padding: 15px 20px 15px 20px;
+  color: white;
+  font-weight: bold;
+}
+#title {
+	margin-bottom: 30px;
+  font-size: 40px;
+  font-family: Courier;
+}
+#title2 {
+  margin-bottom: 30px;
+  font-family: Courier;
+}
+.square {
+  height: 100px;
+  width: 100px;
+  border-style: solid;
+  border-color: black;
+  border-color: black;
+  border-width: 1px;
+  background-color: #FFEB99;
+
+}
+.innerSquare {
+  margin-top:35px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Courier;
+}
+.scores {
+  font-size: 16px;
+  font-family: Courier;
+  font-weight: bold;
+}
+#info {
+  color: #A6880D;
+  font-size:18px;
+}
